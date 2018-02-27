@@ -1,0 +1,7 @@
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\Dal\bin\Debug\Dal.dll
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\Dal\bin\Debug\Dal.pdb
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\Dal\bin\Debug\BusinessObjects.dll
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\Dal\bin\Debug\BusinessObjects.pdb
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\Dal\obj\Debug\Dal.dll
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\Dal\obj\Debug\Dal.pdb

@@ -1,0 +1,17 @@
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\PosTerminal\bin\Debug\PosTerminal.exe.config
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\PosTerminal\bin\Debug\PosTerminal.exe
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\PosTerminal\bin\Debug\PosTerminal.pdb
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\PosTerminal\bin\Debug\Views.dll
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\PosTerminal\bin\Debug\Views.pdb
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\PosTerminal\obj\Debug\PosTerminal.csprojResolveAssemblyReference.cache
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\PosTerminal\obj\Debug\PosTerminal.exe
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\PosTerminal\obj\Debug\PosTerminal.pdb
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\PosTerminal\bin\Debug\BLL.dll
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\PosTerminal\bin\Debug\BusinessObjects.dll
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\PosTerminal\bin\Debug\Dal.dll
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\PosTerminal\bin\Debug\BLL.pdb
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\PosTerminal\bin\Debug\BusinessObjects.pdb
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\PosTerminal\bin\Debug\Dal.pdb
+E:\Study\Bachelors\6 semester\EAD\Assignments\PosTerminal\PosTerminal\bin\Debug\PosTerminal.exe.config
+E:\Study\Bachelors\6 semester\EAD\Assignments\PosTerminal\PosTerminal\obj\Debug\PosTerminal.exe
+E:\Study\Bachelors\6 semester\EAD\Assignments\PosTerminal\PosTerminal\obj\Debug\PosTerminal.pdb

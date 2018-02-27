@@ -1,0 +1,2 @@
+1;Ali ;Lahore;03218882503;ali@gmail.com;600;2000
+2;Nauman;Multan;03219090909;nauman@gmail.com;600;0

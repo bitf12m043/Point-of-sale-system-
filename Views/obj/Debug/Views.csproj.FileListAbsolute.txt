@@ -1,0 +1,11 @@
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\Views\bin\Debug\Views.dll
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\Views\bin\Debug\Views.pdb
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\Views\bin\Debug\BLL.dll
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\Views\bin\Debug\BusinessObjects.dll
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\Views\bin\Debug\BLL.pdb
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\Views\bin\Debug\BusinessObjects.pdb
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\Views\obj\Debug\Views.csprojResolveAssemblyReference.cache
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\Views\obj\Debug\Views.dll
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\Views\obj\Debug\Views.pdb
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\Views\bin\Debug\Dal.dll
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\Views\bin\Debug\Dal.pdb

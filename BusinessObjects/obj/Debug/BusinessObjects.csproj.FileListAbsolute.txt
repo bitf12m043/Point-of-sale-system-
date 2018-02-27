@@ -1,0 +1,5 @@
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\SHAHARYAR TARIQ\Desktop\practice\PosTerminal\BusinessObjects\obj\Debug\BusinessObjects.pdb
